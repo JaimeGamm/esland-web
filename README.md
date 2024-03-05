@@ -101,11 +101,6 @@ pnpm dev
 
 4. Open [**http://localhost:4321**](http://localhost:4321/) with your browser to see the result 🚀
 
-### 🤝 Contributing
-
-<a href="https://github.com/midudev/esland-web/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=midudev/esland-web" />
-</a>
 
 ## 🧞 Commands
 
@@ -115,13 +110,4 @@ pnpm dev
 | ⚙️  | `build`          | Build your production site to `./dist/`.      |
 | ⚙️  | `preview`        | Preview your build locally, before deploying. |
 
-## 🔑 License
 
-[MIT](#) - Created by [**midu.dev**](https://midu.dev).
-
-## ✅ Por hacer...
-
-- [ ] Afinar el Header y añadirle una animación con el scroll
-- [ ] Afinar el responsive
-- [ ] Las páginas extra
-- [ ] Añadir el efecto hover sobre los enlaces de Nav Bar
